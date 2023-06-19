@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.fe927caf.css",
-    "main.js": "/static/js/main.8ecf56b1.js",
+    "main.js": "/static/js/main.21e9c035.js",
     "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
     "static/media/IshratAmin.jpg": "/static/media/IshratAmin.b48d2eadb43fb4131cdc.jpg",
     "static/media/cuny.png": "/static/media/cuny.cf915efd32378457d94d.png",
     "static/media/ms.jpg": "/static/media/ms.3fec1de6c730d4d7d694.jpg",
     "index.html": "/index.html",
     "main.fe927caf.css.map": "/static/css/main.fe927caf.css.map",
-    "main.8ecf56b1.js.map": "/static/js/main.8ecf56b1.js.map",
+    "main.21e9c035.js.map": "/static/js/main.21e9c035.js.map",
     "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe927caf.css",
-    "static/js/main.8ecf56b1.js"
+    "static/js/main.21e9c035.js"
   ]
 }
